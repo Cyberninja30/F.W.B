@@ -1,4 +1,5 @@
-F.W.B: AutoFirewall - Automated Captive Portal Login & Session Maintenance
+### F.W.B: AutoFirewall - Automated Captive Portal Login & Session Maintenance
+
 ### Introduction
 
 AutoFirewall is a cross-platform Bash script designed to automate the login process for captive portals, such as those commonly used in college networks. The script keeps your session alive by continuously sending keep-alive requests. It is designed to run in the background and supports dynamic network detection, credential storage, VPN detection, and retry mechanisms for failed login attempts.
