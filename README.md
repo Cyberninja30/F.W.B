@@ -1,4 +1,4 @@
-### F.W.B: AutoFirewall - Automated Captive Portal Login & Session Maintenance
+# F.W.B: AutoFirewall - Automated Captive Portal Login & Session Maintenance
 
 ### Introduction
 
@@ -51,7 +51,7 @@ secret-tool store --label="AutoFirewall Password" service autofirewall password
 security add-generic-password -a username -s autofirewall -w "your_username"
 security add-generic-password -a password -s autofirewall -w "your_password"
 
-# For Windows: Store credentials using PowerShell Secret Management.
+## For Windows: Store credentials using PowerShell Secret Management.
 
 Set-Secret -Name autofirewall_username -Secret "your_username"
 Set-Secret -Name autofirewall_password -Secret "your_password"
