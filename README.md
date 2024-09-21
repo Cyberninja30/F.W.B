@@ -36,8 +36,8 @@ PowerShell for notifications (or install notify-send equivalent)
 ### Installation
 
 ## Clone the Repository
--> git clone https://github.com/yourusername/autofirewall.git
--> cd autofirewall
+git clone https://github.com/yourusername/autofirewall.git /n
+cd autofirewall
 
 ## Set Up Secure Credentials
 
